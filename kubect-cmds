@@ -2,10 +2,8 @@ kubectl
 kubectl run
 kubectl get nodes
 kubectl get api-resources
-kubectl get pods --all-namespace
-kubectl get deployment
-kubectl get service
-
-kubeadm init
-kubectl get rs
+docker run
+docker create
+docker
+docker 
 
