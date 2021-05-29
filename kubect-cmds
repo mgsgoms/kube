@@ -2,3 +2,6 @@ kubectl
 kubectl run
 kubectl get nodes
 kubectl get api-resources
+kubectl get ns
+kubectl get service
+
