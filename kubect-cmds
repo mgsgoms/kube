@@ -2,8 +2,8 @@ kubectl
 kubectl run
 kubectl get nodes
 kubectl get api-resources
-
 docker run
 docker create
 docker
 docker 
+
