@@ -13,6 +13,8 @@ spec:
       containers:
         - name: cont
           image: httpd
+          containerPort:
+          - port: 80
   selector:
     matchLabels:
       app: green
