@@ -18,5 +18,7 @@ spec:
   selector:
     matchLabels:
       app: green
-I am from Cubensquare ID making some some changes - part1
+---
+apiVersion: v1
+kind: Service
 
