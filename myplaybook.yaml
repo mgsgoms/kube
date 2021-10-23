@@ -1,3 +1,5 @@
 ---
 - name: create ansible playbook
   hosts: all
+  become: true
+  tasks
