@@ -18,9 +18,3 @@ spec:
   selector:
     matchLabels:
       app: green
----
-apiVersion: v1
-kind: Service
-test
-test - this is from cubensquare id
-
